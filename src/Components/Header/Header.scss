@@ -1,0 +1,36 @@
+#header {
+	.ant-layout-header {
+		height: auto;
+		color: #bdc9d3;
+		line-height: normal;
+		background: #fff;
+		padding-top: 20px !important;
+		padding-left: 50px !important;
+
+		.anticon svg {
+			display: inline-block;
+			font-size: 24px;
+		}
+		.donatoin {
+			font-family: Poppins;
+			font-style: normal;
+			font-weight: 600;
+			font-size: 12px;
+			line-height: 8px;
+			text-transform: uppercase;
+			color: #687c97;
+			margin-bottom: 0;
+		}
+
+		.forms {
+			font-family: Poppins;
+			font-style: normal;
+			font-weight: 600;
+			font-size: 22px;
+			line-height: 24px;
+			color: #0a3700;
+			margin-bottom: 0;
+			margin-top: 5px;
+		}
+	}
+}

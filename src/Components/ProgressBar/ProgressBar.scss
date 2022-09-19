@@ -1,0 +1,20 @@
+#progress {
+	.ant-progress-show-info .ant-progress-outer {
+		margin-right: 0px !important;
+		padding-right: 0px;
+	}
+	.ant-progress-inner {
+		background-color: #d8d8d8;
+		height: 4px;
+		border-radius: 0px;
+	}
+	.ant-progress-success-bg,
+	.ant-progress-bg {
+		background-color: #0a3700;
+		border-radius: 0px;
+	}
+	.ant-progress-text {
+		// visibility: hidden;
+		display: none;
+	}
+}

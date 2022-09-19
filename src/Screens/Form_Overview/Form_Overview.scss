@@ -1,0 +1,30 @@
+#overview {
+	background-color: #fff;
+	.ant-btn-primary {
+		height: 40px;
+		width: 105px;
+		border-radius: 8px;
+		color: #fff;
+		background: #103f00;
+		border-color: #103f00;
+		text-shadow: none;
+	}
+	.text {
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		line-height: 16px;
+		color: #687c97;
+		margin-bottom: 0;
+	}
+	.number {
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: 600;
+		font-size: 13px;
+		line-height: 16px;
+		color: #222b45;
+		margin-bottom: 0;
+	}
+}

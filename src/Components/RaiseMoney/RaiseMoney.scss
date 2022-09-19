@@ -1,0 +1,36 @@
+#raiseMoney {
+	.choose {
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: 600;
+		font-size: 22px;
+		line-height: 35px;
+		color: #222b45;
+		width: 660px;
+	}
+	.back {
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		line-height: 16px;
+		color: #687c97;
+		margin-bottom: 0;
+		cursor: pointer;
+	}
+	.ant-btn-primary {
+		height: 40px;
+		border-radius: 8px;
+		color: #fff;
+		background: #103f00;
+		border-color: #103f00;
+		text-shadow: none;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 15px;
+		line-height: 16px;
+		text-align: center;
+		padding: 10px 50px;
+	}
+}
